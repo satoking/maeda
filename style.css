@@ -154,7 +154,7 @@ home*************************************/
     font-weight: normal;
 }
 #home{
-    ![about2](https://user-images.githubusercontent.com/79783815/110765301-66b8ed00-8297-11eb-8996-585027863073.jpg);
+    background-imge:();
 
     min-height: 100vh;
     background-size: cover;
@@ -337,7 +337,7 @@ footer p{
 /*contact
 *********************/
 #contact{
-    background-image: url(../images/pexels-lisa-fotios-2196685.jpg);
+    background-image: url(https://github.com/satoking/maeda/blob/main/pexels-lisa-fotios-2196685.jpg?raw=true);
     min-height: 100vh;
 }
 #contact .page-title{
